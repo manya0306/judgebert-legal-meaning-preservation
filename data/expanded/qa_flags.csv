@@ -1,0 +1,43 @@
+﻿pair_id,check,severity,detail
+AIG-C039-EN-04,lossy_variant_scored_preserved,warn,lossy simplification scored 8.0
+AIG-C005-EN-06,repeated_edit_signature,info,8 pairs share edit '-shall +may'
+AIG-C017-EN-05,repeated_edit_signature,info,8 pairs share edit '-shall +may'
+AIG-C019-EN-06,repeated_edit_signature,info,8 pairs share edit '-shall +may'
+AIG-C027-EN-04,repeated_edit_signature,info,8 pairs share edit '-shall +may'
+AIG-C029-EN-06,repeated_edit_signature,info,8 pairs share edit '-shall +may'
+AIG-C033-EN-06,repeated_edit_signature,info,8 pairs share edit '-shall +may'
+AIG-C034-EN-05,repeated_edit_signature,info,8 pairs share edit '-shall +may'
+AIG-C040-EN-05,repeated_edit_signature,info,8 pairs share edit '-shall +may'
+AIG-C018-HI-01,terminology_mismatch,warn,"EN original uses 'notice' but HI original lacks glossary term(s) ['नोटिस', 'सूचना']"
+AIG-C002-EN-06,identical_tokens_low_score,warn,same token set but Not Preserved
+AIG-C002-HI-06,identical_tokens_low_score,warn,same token set but Not Preserved
+AIG-C005-EN-05,numeric_label_without_numeric_difference,info,numbers/dates label but no detectable numeric difference (may be a vague-quantity change)
+AIG-C005-HI-05,numeric_label_without_numeric_difference,info,numbers/dates label but no detectable numeric difference (may be a vague-quantity change)
+AIG-C006-HI-04,numeric_label_without_numeric_difference,info,numbers/dates label but no detectable numeric difference (may be a vague-quantity change)
+AIG-C008-EN-03,numeric_label_without_numeric_difference,info,numbers/dates label but no detectable numeric difference (may be a vague-quantity change)
+AIG-C008-HI-03,numeric_label_without_numeric_difference,info,numbers/dates label but no detectable numeric difference (may be a vague-quantity change)
+AIG-C014-EN-04,numeric_label_without_numeric_difference,info,numbers/dates label but no detectable numeric difference (may be a vague-quantity change)
+AIG-C014-HI-04,numeric_label_without_numeric_difference,info,numbers/dates label but no detectable numeric difference (may be a vague-quantity change)
+AIG-C014-EN-06,numeric_label_without_numeric_difference,info,numbers/dates label but no detectable numeric difference (may be a vague-quantity change)
+AIG-C014-HI-06,numeric_label_without_numeric_difference,info,numbers/dates label but no detectable numeric difference (may be a vague-quantity change)
+AIG-C015-EN-06,numeric_label_without_numeric_difference,info,numbers/dates label but no detectable numeric difference (may be a vague-quantity change)
+AIG-C015-HI-06,numeric_label_without_numeric_difference,info,numbers/dates label but no detectable numeric difference (may be a vague-quantity change)
+AIG-C018-EN-03,numeric_label_without_numeric_difference,info,numbers/dates label but no detectable numeric difference (may be a vague-quantity change)
+AIG-C026-HI-02,numeric_label_without_numeric_difference,info,numbers/dates label but no detectable numeric difference (may be a vague-quantity change)
+AIG-C028-EN-04,numeric_label_without_numeric_difference,info,numbers/dates label but no detectable numeric difference (may be a vague-quantity change)
+AIG-C028-HI-04,numeric_label_without_numeric_difference,info,numbers/dates label but no detectable numeric difference (may be a vague-quantity change)
+AIG-C029-HI-03,numeric_label_without_numeric_difference,info,numbers/dates label but no detectable numeric difference (may be a vague-quantity change)
+AIG-C029-EN-05,numeric_label_without_numeric_difference,info,numbers/dates label but no detectable numeric difference (may be a vague-quantity change)
+AIG-C029-HI-05,numeric_label_without_numeric_difference,info,numbers/dates label but no detectable numeric difference (may be a vague-quantity change)
+AIG-C033-HI-04,numeric_label_without_numeric_difference,info,numbers/dates label but no detectable numeric difference (may be a vague-quantity change)
+AIG-C033-HI-05,numeric_label_without_numeric_difference,info,numbers/dates label but no detectable numeric difference (may be a vague-quantity change)
+AIG-C035-EN-03,numeric_label_without_numeric_difference,info,numbers/dates label but no detectable numeric difference (may be a vague-quantity change)
+AIG-C035-HI-03,numeric_label_without_numeric_difference,info,numbers/dates label but no detectable numeric difference (may be a vague-quantity change)
+AIG-C036-HI-02,numeric_label_without_numeric_difference,info,numbers/dates label but no detectable numeric difference (may be a vague-quantity change)
+AIG-C036-EN-06,numeric_label_without_numeric_difference,info,numbers/dates label but no detectable numeric difference (may be a vague-quantity change)
+AIG-C036-HI-06,numeric_label_without_numeric_difference,info,numbers/dates label but no detectable numeric difference (may be a vague-quantity change)
+AIG-C038-EN-06,numeric_label_without_numeric_difference,info,numbers/dates label but no detectable numeric difference (may be a vague-quantity change)
+AIG-C038-HI-06,numeric_label_without_numeric_difference,info,numbers/dates label but no detectable numeric difference (may be a vague-quantity change)
+AIG-C040-HI-02,numeric_label_without_numeric_difference,info,numbers/dates label but no detectable numeric difference (may be a vague-quantity change)
+AIG-C040-HI-03,numeric_label_without_numeric_difference,info,numbers/dates label but no detectable numeric difference (may be a vague-quantity change)
+AIG-C040-HI-04,numeric_label_without_numeric_difference,info,numbers/dates label but no detectable numeric difference (may be a vague-quantity change)

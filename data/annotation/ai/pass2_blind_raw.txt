@@ -1,0 +1,168 @@
+B001;1;contradiction+altered_condition+omission;h;Cancellation made unconditional; notice/hearing moved to after the fact.
+B002;3;altered_condition;h;'and' became 'or': either condition now suffices.
+B003;5;altered_numbers;m;Value threshold dropped; registration now required for all immovable sales.
+B004;5;omission+scope_change;m;Mortgage no longer covered by the bar.
+B005;5;omission;h;Duty to erase data after purpose is served dropped.
+B006;2;changed_obligation;h;'shall stop/assist/report' became merely 'may'.
+B007;7;omission;m;'valid' dropped from licence requirement; rest preserved.
+B008;8;;m;Day = 24h; travel-time exclusion kept; produced before magistrate kept.
+B009;4;scope_change+omission;m;Recovery of 'excess' became recovery of the whole tax paid.
+B010;9;;h;Faithful paraphrase; both exceptions kept.
+B011;3;altered_numbers;h;Copyright term 60 -> 50 years.
+B012;8;;m;Registration requirement and value threshold kept in plain wording.
+B013;6;missing_exception;h;Second exception (refusal to live with husband) dropped.
+B014;2;contradiction+changed_permission;h;Bar on voting reversed to permission to vote.
+B015;1;contradiction+changed_permission+missing_exception;h;Confidentiality duty replaced by broad discretion to disclose.
+B016;9;;h;Forum, seat and joint appointment preserved.
+B017;8;;m;Threshold, deadline and monthly fee preserved in plain words.
+B018;5;omission;h;Owner's duty not to permit unlicensed driving dropped.
+B019;5;omission;h;Fee for delay (consequence) dropped.
+B020;3;altered_numbers;h;Deposit cap two -> three months.
+B021;9;;h;Both conditions (material, unknown to insurer) preserved.
+B022;4;omission;h;Requirement that the testator sign dropped.
+B023;6;altered_numbers;m;24-hour deadline and 'nearest' station dropped.
+B024;7;scope_change;m;'perishable goods' narrowed to spoiling food.
+B025;2;altered_condition+changed_permission+omission;h;Treatment standard requirement dropped; prohibition became permission.
+B026;3;altered_numbers;h;Seven years became ten years.
+B027;5;omission;h;Owner's prohibition dropped.
+B028;5;omission;h;Written-authorisation ground for deduction dropped.
+B029;5;omission;h;Refund duty dropped.
+B030;3;changed_permission;h;Discretion ('may') became duty ('must').
+B031;6;omission;m;Show-cause notice dropped; opportunity to reply kept.
+B032;5;altered_condition+altered_numbers;h;Three-day reporting window replaced by vague 'promptly'.
+B033;8;;m;Purpose limitation and erasure kept in lay terms.
+B034;4;missing_exception+omission;h;Court-order exception and 'written' dropped.
+B035;6;omission;m;Seat of arbitration (New Delhi) dropped.
+B036;8;;m;Threshold, necessity of recorded justification kept.
+B037;2;altered_numbers+changed_obligation;h;Discretionary demolition after 30 days became immediate mandatory demolition.
+B038;4;missing_exception;h;Late-claim protection dropped.
+B039;6;omission;h;'paid' rest dropped.
+B040;1;contradiction+altered_entities+changed_obligation;h;Right to recover from others became duty to pay others.
+B041;8;;m;Threshold and registration requirement kept.
+B042;9;;h;Notice period and first-year bar preserved.
+B043;2;missing_exception+contradiction;h;First-year bar removed.
+B044;4;missing_exception;h;Both exceptions dropped.
+B045;8;;m;Approval requirement and demolition after a month kept.
+B046;4;missing_exception+scope_change;h;New health-data carve-out added.
+B047;4;missing_exception;h;First-year bar dropped.
+B048;2;contradiction;h;Lower price became higher price.
+B049;6;omission;h;'replace' remedy dropped.
+B050;6;altered_entities+omission;h;'lawful guardian' dropped.
+B051;3;changed_obligation;h;Duty ('shall') became 'may'.
+B052;2;altered_dates;h;Six months after year-end became before year-end.
+B053;2;altered_numbers;h;26 -> 12 weeks.
+B054;9;;h;Faithful paraphrase.
+B055;1;contradiction+changed_permission+scope_change;h;Narrow list of lawful deductions became open-ended discretion.
+B056;7;omission;m;'before signing' timing dropped.
+B057;3;changed_obligation;h;Duty to pay became permission.
+B058;6;omission;h;'replace' option dropped.
+B059;9;;h;Faithful paraphrase.
+B060;9;;h;Faithful paraphrase.
+B061;6;omission;m;'prior' and 'written' dropped from consent.
+B062;9;;h;Faithful paraphrase.
+B063;4;omission+altered_numbers;h;Reporting duty and deadline dropped.
+B064;5;omission;h;Right to be heard and timing dropped.
+B065;5;scope_change+altered_numbers;h;Seven-year limit dropped; rule now covers all offences.
+B066;6;scope_change;m;'only' lost; erasure trigger vaguer.
+B067;4;missing_exception+altered_numbers;h;48-hour rule for life/liberty dropped.
+B068;6;altered_numbers;h;21-day notice period dropped.
+B069;4;altered_condition;h;Floating-rate condition dropped.
+B070;8;;m;Condition, notice period and effect kept.
+B071;6;scope_change;h;Partial prepayment dropped.
+B072;3;changed_obligation;h;Duty to provide became 'may'.
+B073;3;changed_obligation+altered_condition;h;Compensatory rest replaced by extra pay.
+B074;3;altered_numbers;h;24 -> 48 hours.
+B075;6;altered_numbers;m;15-day deadline replaced by 'promptly'.
+B076;6;scope_change;m;'immovable' and 'previous' dropped.
+B077;2;contradiction+altered_condition;h;Free prepayment became chargeable.
+B078;8;;m;Two-year limit and recorded reason kept.
+B079;3;changed_obligation;h;Disclosure duty became 'may'.
+B080;3;altered_numbers;h;Six months -> sixty days.
+B081;2;changed_obligation;h;Duty to file became 'may file'.
+B082;9;;h;Faithful paraphrase.
+B083;3;altered_numbers;h;One-third -> one-half.
+B084;3;altered_dates;h;Per week -> per month.
+B085;1;contradiction+changed_permission+scope_change;h;Capped, itemised deposit rule replaced by right to keep deposit.
+B086;8;;m;Limit and written-reason requirement kept.
+B087;7;altered_entities;m;'female employee' generalised to working mothers.
+B088;3;altered_numbers;h;Cap two -> three months.
+B089;8;;m;Notice of reasons and chance to reply kept.
+B090;9;;h;Faithful paraphrase.
+B091;5;altered_condition;h;'consecutive' dropped.
+B092;5;altered_dates;h;30-day refund deadline dropped.
+B093;9;;h;Faithful paraphrase.
+B094;6;missing_exception;h;Made-to-order exception dropped.
+B095;2;altered_numbers;h;0.5% -> 5%.
+B096;3;altered_condition;h;'and' became 'or'.
+B097;5;omission;h;Appeal period dropped.
+B098;9;;h;Faithful paraphrase.
+B099;2;altered_dates;h;Before -> after dismissal.
+B100;7;scope_change;m;'every affected buyer' narrowed to 'the buyer'.
+B101;4;omission;h;Duty to report and deadline dropped.
+B102;5;missing_exception;h;Emergency exception dropped.
+B103;3;altered_dates;h;Same month -> three months.
+B104;4;omission+missing_exception;h;Written consent route dropped.
+B105;3;altered_numbers;h;One-third -> one-half.
+B106;5;altered_condition;h;Three-day reporting condition dropped.
+B107;5;altered_numbers+omission;h;'at least two' witnesses and 'seen' dropped.
+B108;2;altered_numbers;h;0.5% -> 5% per week.
+B109;3;altered_dates;h;Same month -> next three months.
+B110;8;;m;Both conditions kept.
+B111;8;;m;Month/two days equate to 30 days/48 hours.
+B112;9;;h;Faithful paraphrase.
+B113;1;contradiction+changed_permission+scope_change;h;Closed list became open-ended.
+B114;7;omission;m;'verifiable' dropped.
+B115;6;altered_numbers;m;15 days replaced by 'time'.
+B116;2;changed_obligation+altered_numbers;h;Discretionary demolition after notice became immediate.
+B117;2;altered_condition+changed_permission+omission;h;Treatment requirement dropped.
+B118;9;;h;Faithful paraphrase.
+B119;9;;h;Faithful paraphrase.
+B120;9;;h;Faithful paraphrase.
+B121;5;altered_numbers;h;26-week entitlement dropped.
+B122;9;;h;Faithful paraphrase.
+B123;2;altered_condition+contradiction;h;Order effective immediately instead of after appeal period.
+B124;5;altered_numbers;h;Specific one-third replaced by 'substantial part'.
+B125;2;altered_numbers;h;24 -> 48 hours.
+B126;2;changed_permission+altered_condition;h;Prohibition replaced by permission after notice.
+B127;4;missing_exception;h;First-year bar dropped.
+B128;9;;h;Faithful paraphrase.
+B129;5;altered_condition;h;'not known to insurer' limb dropped.
+B130;6;altered_numbers;h;15-day notice period dropped.
+B131;5;scope_change;h;Joint-authorship rule dropped.
+B132;3;altered_condition+scope_change;h;Notice-based rule became vague 'unfair term' test.
+B133;1;altered_dates+omission;h;Term runs before rather than after death.
+B134;4;scope_change+omission;h;'excess' qualifier dropped.
+B135;2;altered_condition+contradiction;h;Order effective immediately.
+B136;5;missing_exception;h;Emergency exception dropped.
+B137;1;contradiction+changed_permission+missing_exception;h;Prohibition replaced by discretion.
+B138;9;;h;Faithful paraphrase.
+B139;5;altered_numbers;h;Value threshold dropped.
+B140;5;omission;h;Bar on voting dropped.
+B141;9;;h;Faithful paraphrase.
+B142;4;missing_exception;h;Unavoidable-delay protection dropped.
+B143;8;;m;Purpose limitation and erasure kept.
+B144;8;;m;Materiality and insurer's ignorance kept.
+B145;8;;m;30 days / 48 hours rendered as month / two days.
+B146;5;omission;h;10% cap dropped.
+B147;7;altered_dates;m;'before the contract was signed' dropped.
+B148;8;;m;One-week limit, exceptions kept (perishables narrowed to food).
+B149;3;changed_obligation;h;Duty to give reasons/hearing became 'may'.
+B150;6;scope_change;m;'any part' dropped.
+B151;5;missing_exception;h;Late-complaint exception dropped.
+B152;3;changed_obligation;h;Duty to credit became 'may'.
+B153;6;altered_numbers;h;24-hour minimum dropped.
+B154;3;changed_obligation;h;Entitlement became discretionary.
+B155;1;contradiction+altered_condition;h;Arrest bar reversed; reasons recorded afterwards.
+B156;8;;m;Unnotified fine print unenforceable; preserved.
+B157;5;omission;h;Bar on voting dropped.
+B158;3;altered_numbers;h;Six months -> sixty days.
+B159;4;scope_change;m;Income threshold dropped; applies to everyone.
+B160;5;omission;h;Demolition consequence dropped.
+B161;9;;h;Faithful paraphrase.
+B162;2;scope_change+changed_obligation;h;Cap on pre-delivery leave became mandatory pre-delivery.
+B163;5;altered_dates;h;Six-month deadline dropped.
+B164;6;omission;m;Proportionality dropped.
+B165;3;altered_numbers+altered_condition;h;One witness suffices; 'seen testator sign' dropped.
+B166;2;altered_dates;h;Consent required after processing.
+B167;1;altered_entities+altered_numbers+scope_change;h;Seat, appointing party and panel size all changed.
+B168;6;omission;m;'in writing' dropped from authorisation.

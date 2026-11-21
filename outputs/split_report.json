@@ -1,0 +1,80 @@
+{
+  "train": {
+    "n_pairs": 388,
+    "n_groups": 37,
+    "language": {
+      "en": 194,
+      "hi": 194
+    },
+    "category": {
+      "Not Preserved": 144,
+      "Partially Preserved": 137,
+      "Preserved": 107
+    },
+    "domain": {
+      "employment": 44,
+      "tenancy": 36,
+      "insurance": 32,
+      "consumer": 24,
+      "contract": 24,
+      "banking": 24,
+      "property": 24,
+      "family": 24,
+      "administrative": 24,
+      "criminal_procedure": 24,
+      "company": 24,
+      "privacy": 24,
+      "motor_vehicles": 24,
+      "tax": 12,
+      "intellectual_property": 12,
+      "environment": 12
+    }
+  },
+  "val": {
+    "n_pairs": 52,
+    "n_groups": 5,
+    "language": {
+      "en": 26,
+      "hi": 26
+    },
+    "category": {
+      "Not Preserved": 18,
+      "Partially Preserved": 18,
+      "Preserved": 16
+    },
+    "domain": {
+      "tenancy": 12,
+      "employment": 12,
+      "consumer": 12,
+      "contract": 12,
+      "insurance": 4
+    }
+  },
+  "test": {
+    "n_pairs": 112,
+    "n_groups": 12,
+    "language": {
+      "en": 56,
+      "hi": 56
+    },
+    "category": {
+      "Not Preserved": 47,
+      "Partially Preserved": 36,
+      "Preserved": 29
+    },
+    "domain": {
+      "tenancy": 16,
+      "consumer": 12,
+      "contract": 12,
+      "banking": 12,
+      "property": 12,
+      "family": 12,
+      "administrative": 12,
+      "criminal_procedure": 12,
+      "employment": 8,
+      "insurance": 4
+    }
+  },
+  "leakage_check": "passed (no shared group, pair_id, concept or identical original sentence)",
+  "statistical_power_note": "54 independent groups; a test set of 112 pairs from 12 groups supports only coarse conclusions - prefer grouped cross-validation."
+}

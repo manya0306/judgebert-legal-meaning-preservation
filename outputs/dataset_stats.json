@@ -1,0 +1,75 @@
+{
+  "n": 552,
+  "by_language": {
+    "en": 276,
+    "hi": 276
+  },
+  "by_category": {
+    "Not Preserved": 209,
+    "Partially Preserved": 191,
+    "Preserved": 152
+  },
+  "by_domain": {
+    "tenancy": 64,
+    "employment": 64,
+    "consumer": 48,
+    "contract": 48,
+    "insurance": 40,
+    "banking": 36,
+    "property": 36,
+    "family": 36,
+    "administrative": 36,
+    "criminal_procedure": 36,
+    "company": 24,
+    "privacy": 24,
+    "motor_vehicles": 24,
+    "tax": 12,
+    "intellectual_property": 12,
+    "environment": 12
+  },
+  "by_tier": {
+    "ai_generated": 504,
+    "original_synthetic": 48
+  },
+  "language_x_category": {
+    "Not Preserved": {
+      "en": 105,
+      "hi": 104
+    },
+    "Partially Preserved": {
+      "en": 94,
+      "hi": 97
+    },
+    "Preserved": {
+      "en": 77,
+      "hi": 75
+    }
+  },
+  "score_counts": {
+    "1.0": 40,
+    "2.0": 66,
+    "3.0": 102,
+    "3.5": 1,
+    "4.0": 34,
+    "4.5": 4,
+    "5.0": 66,
+    "5.5": 1,
+    "6.0": 62,
+    "6.5": 2,
+    "7.0": 22,
+    "8.0": 61,
+    "8.5": 1,
+    "9.0": 90
+  },
+  "n_groups": 54,
+  "imbalance_flag": false,
+  "lexical_cue_reliance": {
+    "n": 552,
+    "spearman_jaccard_vs_score": -0.4651987061452863,
+    "spearman_length_ratio_vs_score": -0.044405686150567884,
+    "spearman_jaccard_vs_score_en": -0.5024651395583521,
+    "spearman_jaccard_vs_score_hi": -0.4210573192580729,
+    "flag": "moderate/low"
+  },
+  "qa_flags": "{('info', 'numeric_label_without_numeric_difference'): 30, ('info', 'repeated_edit_signature'): 8, ('warn', 'identical_tokens_low_score'): 2, ('warn', 'lossy_variant_scored_preserved'): 1, ('warn', 'terminology_mismatch'): 1}"
+}

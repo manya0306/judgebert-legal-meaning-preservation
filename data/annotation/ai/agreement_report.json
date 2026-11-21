@@ -1,0 +1,22 @@
+{
+  "title": "AI-vs-AI (same model family)",
+  "annotator_types": {
+    "claude-gen-intent": "ai",
+    "claude-pass2-blind": "ai"
+  },
+  "n_units_with_2plus_ratings": 168,
+  "n_units_total": 504,
+  "pairs": [
+    {
+      "annotators": "claude-gen-intent~claude-pass2-blind",
+      "n": 168,
+      "weighted_kappa_score_quadratic": 0.9911300919842313,
+      "weighted_kappa_category_linear": 0.9557623101904679,
+      "category_accuracy_agreement": 0.9642857142857143,
+      "mean_abs_score_diff": 0.09523809523809523
+    }
+  ],
+  "warning": "AI-vs-AI agreement: NOT human inter-annotator agreement; model errors are correlated.",
+  "krippendorff_alpha_score_interval": 0.9911551933536339,
+  "krippendorff_alpha_category_ordinal": 0.9699557557397959
+}

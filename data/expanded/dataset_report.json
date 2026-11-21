@@ -1,0 +1,186 @@
+{
+  "counts": {
+    "original_synthetic_written_by_author": 48,
+    "ai_generated_total": 504,
+    "ai_generated_with_second_blind_pass": 168,
+    "ai_generated_single_pass_only": 336,
+    "disagreements_found_and_adjudicated": 11,
+    "accepted_in_filtered_set": 551,
+    "rejected_from_filtered_set": 1,
+    "human_annotated": 0,
+    "external_real_world": 0
+  },
+  "qa_flag_counts": [
+    {
+      "severity": "info",
+      "check": "numeric_label_without_numeric_difference",
+      "n": 30
+    },
+    {
+      "severity": "info",
+      "check": "repeated_edit_signature",
+      "n": 8
+    },
+    {
+      "severity": "warn",
+      "check": "identical_tokens_low_score",
+      "n": 2
+    },
+    {
+      "severity": "warn",
+      "check": "lossy_variant_scored_preserved",
+      "n": 1
+    },
+    {
+      "severity": "warn",
+      "check": "terminology_mismatch",
+      "n": 1
+    }
+  ],
+  "distribution_consolidated": {
+    "n": 552,
+    "by_language": {
+      "en": 276,
+      "hi": 276
+    },
+    "by_category": {
+      "Not Preserved": 209,
+      "Partially Preserved": 191,
+      "Preserved": 152
+    },
+    "by_domain": {
+      "tenancy": 64,
+      "employment": 64,
+      "consumer": 48,
+      "contract": 48,
+      "insurance": 40,
+      "banking": 36,
+      "property": 36,
+      "family": 36,
+      "administrative": 36,
+      "criminal_procedure": 36,
+      "company": 24,
+      "privacy": 24,
+      "motor_vehicles": 24,
+      "tax": 12,
+      "intellectual_property": 12,
+      "environment": 12
+    },
+    "by_tier": {
+      "ai_generated": 504,
+      "original_synthetic": 48
+    },
+    "language_x_category": {
+      "Not Preserved": {
+        "en": 105,
+        "hi": 104
+      },
+      "Partially Preserved": {
+        "en": 94,
+        "hi": 97
+      },
+      "Preserved": {
+        "en": 77,
+        "hi": 75
+      }
+    },
+    "score_counts": {
+      "1.0": 40,
+      "2.0": 66,
+      "3.0": 102,
+      "3.5": 1,
+      "4.0": 34,
+      "4.5": 4,
+      "5.0": 66,
+      "5.5": 1,
+      "6.0": 62,
+      "6.5": 2,
+      "7.0": 22,
+      "8.0": 61,
+      "8.5": 1,
+      "9.0": 90
+    },
+    "n_groups": 54,
+    "imbalance_flag": false
+  },
+  "distribution_filtered": {
+    "n": 551,
+    "by_language": {
+      "hi": 276,
+      "en": 275
+    },
+    "by_category": {
+      "Not Preserved": 209,
+      "Partially Preserved": 191,
+      "Preserved": 151
+    },
+    "by_domain": {
+      "tenancy": 64,
+      "employment": 64,
+      "consumer": 48,
+      "contract": 48,
+      "insurance": 40,
+      "banking": 36,
+      "property": 36,
+      "family": 36,
+      "administrative": 36,
+      "criminal_procedure": 36,
+      "company": 24,
+      "privacy": 24,
+      "motor_vehicles": 23,
+      "tax": 12,
+      "intellectual_property": 12,
+      "environment": 12
+    },
+    "by_tier": {
+      "ai_generated": 503,
+      "original_synthetic": 48
+    },
+    "language_x_category": {
+      "Not Preserved": {
+        "en": 105,
+        "hi": 104
+      },
+      "Partially Preserved": {
+        "en": 94,
+        "hi": 97
+      },
+      "Preserved": {
+        "en": 76,
+        "hi": 75
+      }
+    },
+    "score_counts": {
+      "1.0": 40,
+      "2.0": 66,
+      "3.0": 102,
+      "3.5": 1,
+      "4.0": 34,
+      "4.5": 4,
+      "5.0": 66,
+      "5.5": 1,
+      "6.0": 62,
+      "6.5": 2,
+      "7.0": 22,
+      "8.0": 60,
+      "8.5": 1,
+      "9.0": 90
+    },
+    "n_groups": 54,
+    "imbalance_flag": false
+  },
+  "lexical_cue_reliance_consolidated": {
+    "n": 552,
+    "spearman_jaccard_vs_score": -0.4651987061452863,
+    "spearman_length_ratio_vs_score": -0.044405686150567884,
+    "spearman_jaccard_vs_score_en": -0.5024651395583521,
+    "spearman_jaccard_vs_score_hi": -0.4210573192580729,
+    "flag": "moderate/low"
+  },
+  "status_counts": {
+    "ai_single_pass_unreviewed": 336,
+    "ai_two_pass_agreed": 157,
+    "author_assigned_score_not_independent_annotation": 48,
+    "ai_adjudicated_not_independent": 11
+  }
+}

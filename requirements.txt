@@ -1,0 +1,15 @@
+# Core (all experiments except transformer fine-tuning run on these alone)
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+scikit-learn>=1.4
+matplotlib>=3.8
+# App and tests
+streamlit>=1.40
+pytest>=8.0
+# Transformer cross-encoder (CPU build of torch is enough; ~2 GB download with CUDA wheels on Linux - use the CPU index if disk is tight)
+torch>=2.2
+transformers>=4.40
+# Optional: Sentence-Transformer baseline (needs Hugging Face Hub or a locally cached model dir)
+sentence-transformers>=3.0
+# Optional, only used to cross-check Krippendorff's alpha during development: krippendorff

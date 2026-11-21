@@ -1,0 +1,60 @@
+{
+  "seed": 42,
+  "augment_sanity_pairs": false,
+  "data_path": "data/expanded/pairs_consolidated.csv",
+  "output_dir": "outputs",
+  "checkpoint_dir": "checkpoints",
+  "category_thresholds": {
+    "not_preserved_below": 4.0,
+    "preserved_from": 7.5
+  },
+  "sentence_transformer_model": "paraphrase-multilingual-MiniLM-L12-v2",
+  "regressor": {
+    "backbone": "xlm-roberta-base",
+    "max_length": 128,
+    "batch_size": 8,
+    "learning_rate": 2e-05,
+    "weight_decay": 0.01,
+    "epochs": 10,
+    "patience": 3,
+    "warmup_ratio": 0.1,
+    "dropout": 0.1,
+    "loss": "huber",
+    "device": "auto"
+  },
+  "augment": {
+    "enabled": false,
+    "frac": 0.25,
+    "strategies": [
+      "identity",
+      "unrelated"
+    ]
+  },
+  "cv": {
+    "k": 5,
+    "repeats": 2
+  },
+  
+  "crossenc": {
+    "backbone": "xlm-roberta-base",
+    "pretrained": true,
+    "max_length": 96,
+    "batch_size": 1,
+    "grad_accum": 8,
+    "encoder_lr": 0.00002,
+    "head_lr": 0.001,
+    "weight_decay": 0.01,
+    "epochs": 4,
+    "patience": 2,
+    "warmup_ratio": 0.1,
+    "dropout": 0.1,
+    "huber_delta": 0.5,
+    "cls_weight": 1.0,
+    "language_embedding": false,
+    "freeze_layers": 11,
+    "device": "cpu",
+    "threads": 4,
+    "local_model_path": null
+  },
+  "sentence_transformer_local_path": null
+}
