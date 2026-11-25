@@ -35,3 +35,21 @@ outputs/human_validation_v2/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Human-validation analysis: completed annotations, individual judgments, explanations, private mappings
+outputs/human_validation_v2/
+outputs/human_validation_v2/completed/
+outputs/human_validation_analysis/
+*.xlsx
+PRIVATE_*
+**/PRIVATE_Reference_Key*
+individual_annotations*.csv
+pair_consensus*.csv
+correction_log*.csv
+qualitative_disagreements*.csv
+Student_Annotations_Final*
+Lawyer_Annotations_Final*
+checkpoints/
+.venv/
+
+outputs/human_validation_analysis*/

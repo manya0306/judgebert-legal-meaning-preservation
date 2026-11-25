@@ -13,3 +13,5 @@ transformers>=4.40
 # Optional: Sentence-Transformer baseline (needs Hugging Face Hub or a locally cached model dir)
 sentence-transformers>=3.0
 # Optional, only used to cross-check Krippendorff's alpha during development: krippendorff
+
+openpyxl>=3.1
