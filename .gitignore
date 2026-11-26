@@ -53,3 +53,5 @@ checkpoints/
 .venv/
 
 outputs/human_validation_analysis*/
+
+/outputs/final_human_private/
