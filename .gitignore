@@ -55,3 +55,9 @@ checkpoints/
 outputs/human_validation_analysis*/
 
 /outputs/final_human_private/
+
+/outputs/final_hybrid/*.joblib
+/outputs/final_hybrid_v2/*.joblib
+/outputs/explainer_verifier/*.joblib
+/outputs/final_human_private/
+/outputs/release_audit/*predictions*.csv

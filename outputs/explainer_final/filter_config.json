@@ -1,0 +1,5 @@
+{
+  "threshold": 0.65,
+  "selection": "validation micro F1 then false alarm then lower threshold",
+  "unsupported_labels": "retain rule findings"
+}

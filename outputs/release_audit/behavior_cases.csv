@@ -1,0 +1,37 @@
+pair_id,case,language,original,simplified,category,error_labels
+behavior_0_en,faithful_passive,en,The registrar must issue a receipt to each applicant.,Each applicant must be issued a receipt by the registrar.,Preserved,
+behavior_0_hi,faithful_passive,hi,पंजीयक को प्रत्येक आवेदक को रसीद देनी होगी।,प्रत्येक आवेदक को पंजीयक द्वारा रसीद दी जानी अनिवार्य है।,Preserved,
+behavior_1_en,faithful_reorder,en,"After inspection, the inspector must sign the register.",The inspector must sign the register after inspection.,Preserved,
+behavior_1_hi,faithful_reorder,hi,निरीक्षण के बाद निरीक्षक को रजिस्टर पर हस्ताक्षर करने होंगे।,निरीक्षक को रजिस्टर पर हस्ताक्षर निरीक्षण के बाद करने होंगे।,Preserved,
+behavior_2_en,faithful_modal,en,The supplier shall deliver the goods.,The supplier must deliver the goods.,Preserved,
+behavior_2_hi,faithful_modal,hi,आपूर्तिकर्ता को माल पहुँचाना होगा।,आपूर्तिकर्ता के लिए माल पहुँचाना अनिवार्य है।,Preserved,
+behavior_3_en,identity,en,The board may appoint an auditor.,The board may appoint an auditor.,Preserved,
+behavior_3_hi,identity,hi,बोर्ड लेखापरीक्षक नियुक्त कर सकता है।,बोर्ड लेखापरीक्षक नियुक्त कर सकता है।,Preserved,
+behavior_4_en,obligation,en,Every witness is required to disclose conflicts of interest.,Every witness is permitted to disclose conflicts of interest.,Not Preserved,changed_obligation
+behavior_4_hi,obligation,hi,प्रत्येक गवाह को हितों के टकराव का खुलासा करना अनिवार्य है।,प्रत्येक गवाह हितों के टकराव का खुलासा कर सकता है।,Not Preserved,changed_obligation
+behavior_5_en,permission,en,The trustee may seek an extension.,The trustee is required to seek an extension.,Not Preserved,changed_permission
+behavior_5_hi,permission,hi,न्यासी समय विस्तार माँग सकता है।,न्यासी को समय विस्तार माँगना होगा।,Not Preserved,changed_permission
+behavior_6_en,negation,en,No visitor may enter the archive.,Visitors may enter the archive.,Not Preserved,contradiction
+behavior_6_hi,negation,hi,किसी आगंतुक को अभिलेखागार में प्रवेश की अनुमति नहीं है।,आगंतुकों को अभिलेखागार में प्रवेश की अनुमति है।,Not Preserved,contradiction
+behavior_7_en,condition,en,A refund is payable only if the permit is surrendered.,A refund is payable only if the permit is renewed.,Not Preserved,altered_condition
+behavior_7_hi,condition,hi,धनवापसी तभी देय है जब परमिट वापस किया जाए।,धनवापसी तभी देय है जब परमिट का नवीनीकरण किया जाए।,Not Preserved,altered_condition
+behavior_8_en,exception,en,All records must be disclosed except sealed records.,All records must be disclosed.,Not Preserved,missing_exception
+behavior_8_hi,exception,hi,सीलबंद अभिलेखों को छोड़कर सभी अभिलेखों का खुलासा करना होगा।,सभी अभिलेखों का खुलासा करना होगा।,Not Preserved,missing_exception
+behavior_9_en,scope,en,Every branch must maintain an emergency register.,Some branches must maintain an emergency register.,Not Preserved,scope_change
+behavior_9_hi,scope,hi,प्रत्येक शाखा को आपातकालीन रजिस्टर रखना होगा।,कुछ शाखाओं को आपातकालीन रजिस्टर रखना होगा।,Not Preserved,scope_change
+behavior_10_en,date,en,The licence expires on 15 March 2028.,The licence expires on 15 May 2028.,Not Preserved,altered_dates
+behavior_10_hi,date,hi,लाइसेंस 15 मार्च 2028 को समाप्त होगा।,लाइसेंस 15 मई 2028 को समाप्त होगा।,Not Preserved,altered_dates
+behavior_11_en,number,en,The deposit is 750 rupees per application.,The deposit is 570 rupees per application.,Not Preserved,altered_numbers
+behavior_11_hi,number,hi,प्रति आवेदन जमा राशि 750 रुपये है।,प्रति आवेदन जमा राशि 570 रुपये है।,Not Preserved,altered_numbers
+behavior_12_en,unit,en,The notice must remain displayed for 48 hours.,The notice must remain displayed for 48 days.,Not Preserved,altered_numbers
+behavior_12_hi,unit,hi,सूचना 48 घंटे तक प्रदर्शित रहनी चाहिए।,सूचना 48 दिन तक प्रदर्शित रहनी चाहिए।,Not Preserved,altered_numbers
+behavior_13_en,entity,en,The borrower must reimburse the lender.,The lender must reimburse the borrower.,Not Preserved,altered_entities
+behavior_13_hi,entity,hi,उधारकर्ता को ऋणदाता को प्रतिपूर्ति करनी होगी।,ऋणदाता को उधारकर्ता को प्रतिपूर्ति करनी होगी।,Not Preserved,altered_entities
+behavior_14_en,reference,en,Appeals are governed by section 17(2).,Appeals are governed by section 19(2).,Not Preserved,altered_reference
+behavior_14_hi,reference,hi,अपीलें धारा 17(2) द्वारा शासित हैं।,अपीलें धारा 19(2) द्वारा शासित हैं।,Not Preserved,altered_reference
+behavior_15_en,omission,en,The custodian must inventory the equipment and notify the board.,The custodian must inventory the equipment.,Partially Preserved,omission
+behavior_15_hi,omission,hi,अभिरक्षक को उपकरणों की सूची बनानी होगी और बोर्ड को सूचित करना होगा।,अभिरक्षक को उपकरणों की सूची बनानी होगी।,Partially Preserved,omission
+behavior_16_en,partial_detail,en,The report must include the inspection findings and the inspector’s signature.,The report must include the inspection findings.,Partially Preserved,omission
+behavior_16_hi,partial_detail,hi,रिपोर्ट में निरीक्षण के निष्कर्ष और निरीक्षक के हस्ताक्षर होने चाहिए।,रिपोर्ट में निरीक्षण के निष्कर्ष होने चाहिए।,Partially Preserved,omission
+behavior_17_en,faithful_synonym,en,The committee is authorized to reject incomplete applications.,The committee has permission to refuse incomplete applications.,Preserved,
+behavior_17_hi,faithful_synonym,hi,समिति को अधूरे आवेदन अस्वीकार करने का अधिकार है।,समिति अधूरे आवेदन नामंजूर कर सकती है।,Preserved,
